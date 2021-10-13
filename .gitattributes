@@ -2,4 +2,4 @@
 * text=auto
 
 
-.ps1  linguist-detectable=false
+bin/Activate.ps1  linguist-detectable=false
