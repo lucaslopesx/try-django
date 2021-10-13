@@ -2,4 +2,4 @@
 * text=auto
 
 
-.PowerShell  linguist-detectable=false
+.ps1  linguist-detectable=false
